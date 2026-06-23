@@ -37,3 +37,4 @@ Second commit for Base Guild
 - Learned about NFT collections.
 - Learned about minting NFTs.
 - Learned about metadata storage.
+- Learned about IPFS.
