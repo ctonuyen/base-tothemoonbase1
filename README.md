@@ -18,3 +18,4 @@ Second commit for Base Guild
 - Learned about ERC1155 tokens.
 - Learned about token transfers.
 - Learned about liquidity pools.
+- Learned about DEX protocols.
