@@ -102,3 +102,4 @@ Second commit for Base Guild
 - Learned about Ethereum ecosystem.
 - Learned about Base development.
 - Learned about blockchain adoption.
+- Learned about future Web3 trends.
