@@ -95,3 +95,4 @@ Second commit for Base Guild
 - Learned about transaction monitoring.
 - Learned about Base builders.
 - Learned about ecosystem growth.
+- Learned about decentralized identity.
