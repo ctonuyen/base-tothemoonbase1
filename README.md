@@ -89,3 +89,4 @@ Second commit for Base Guild
 - Learned about wallet reputation.
 - Learned about developer communities.
 - Learned about hackathons.
+- Learned about smart contract audits.
