@@ -83,3 +83,4 @@ Second commit for Base Guild
 - Learned about governance tokens.
 - Learned about voting systems.
 - Learned about treasury management.
+- Learned about protocol incentives.
