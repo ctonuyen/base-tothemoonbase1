@@ -30,3 +30,4 @@ Second commit for Base Guild
 - Learned about testnets.
 - Learned about Base Sepolia.
 - Learned about mainnet deployment.
+- Learned about transaction hashes.
