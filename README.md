@@ -77,3 +77,4 @@ Second commit for Base Guild
 - Learned about subgraphs.
 - Learned about Base ecosystem apps.
 - Learned about NFT marketplaces.
+- Learned about OpenSea.
