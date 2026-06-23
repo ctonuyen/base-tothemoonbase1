@@ -80,3 +80,4 @@ Second commit for Base Guild
 - Learned about OpenSea.
 - Learned about decentralized storage.
 - Learned about token standards.
+- Learned about governance tokens.
