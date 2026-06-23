@@ -55,3 +55,4 @@ Second commit for Base Guild
 - Learned about Chainlink.
 - Learned about bridges.
 - Learned about cross-chain transfers.
+- Learned about rollups.
