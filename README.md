@@ -32,3 +32,4 @@ Second commit for Base Guild
 - Learned about mainnet deployment.
 - Learned about transaction hashes.
 - Learned about gas estimation.
+- Learned about multisig wallets.
