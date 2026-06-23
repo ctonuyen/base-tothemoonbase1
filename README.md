@@ -13,3 +13,4 @@ Second commit for Base Guild
 - Learned about account abstraction.
 - Learned about smart wallets.
 - Learned about wallet security.
+- Learned about ERC20 tokens.
