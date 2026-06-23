@@ -101,3 +101,4 @@ Second commit for Base Guild
 - Learned about protocol design.
 - Learned about Ethereum ecosystem.
 - Learned about Base development.
+- Learned about blockchain adoption.
