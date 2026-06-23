@@ -36,3 +36,4 @@ Second commit for Base Guild
 - Learned about DAO governance.
 - Learned about NFT collections.
 - Learned about minting NFTs.
+- Learned about metadata storage.
