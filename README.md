@@ -64,3 +64,4 @@ Second commit for Base Guild
 - Learned about transaction nonces.
 - Learned about token approvals.
 - Learned about permit signatures.
+- Learned about Safe wallet.
