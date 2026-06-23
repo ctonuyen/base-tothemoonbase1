@@ -66,3 +66,4 @@ Second commit for Base Guild
 - Learned about permit signatures.
 - Learned about Safe wallet.
 - Learned about developer tooling.
+- Learned about Foundry.
