@@ -34,3 +34,4 @@ Second commit for Base Guild
 - Learned about gas estimation.
 - Learned about multisig wallets.
 - Learned about DAO governance.
+- Learned about NFT collections.
