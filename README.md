@@ -16,3 +16,4 @@ Second commit for Base Guild
 - Learned about ERC20 tokens.
 - Learned about ERC721 NFTs.
 - Learned about ERC1155 tokens.
+- Learned about token transfers.
