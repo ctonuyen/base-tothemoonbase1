@@ -46,3 +46,4 @@ Second commit for Base Guild
 - Learned about yield farming.
 - Learned about lending protocols.
 - Learned about borrowing protocols.
+- Learned about liquidity mining.
