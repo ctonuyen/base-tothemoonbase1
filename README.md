@@ -44,3 +44,4 @@ Second commit for Base Guild
 - Learned about DeFi protocols.
 - Learned about staking.
 - Learned about yield farming.
+- Learned about lending protocols.
