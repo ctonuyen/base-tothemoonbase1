@@ -33,3 +33,4 @@ Second commit for Base Guild
 - Learned about transaction hashes.
 - Learned about gas estimation.
 - Learned about multisig wallets.
+- Learned about DAO governance.
