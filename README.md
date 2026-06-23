@@ -43,3 +43,4 @@ Second commit for Base Guild
 - Learned about Web3 applications.
 - Learned about DeFi protocols.
 - Learned about staking.
+- Learned about yield farming.
