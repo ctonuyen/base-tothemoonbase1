@@ -94,3 +94,4 @@ Second commit for Base Guild
 - Learned about blockchain analytics.
 - Learned about transaction monitoring.
 - Learned about Base builders.
+- Learned about ecosystem growth.
