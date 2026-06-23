@@ -62,3 +62,4 @@ Second commit for Base Guild
 - Learned about EVM basics.
 - Learned about wallet signatures.
 - Learned about transaction nonces.
+- Learned about token approvals.
