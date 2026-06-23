@@ -29,3 +29,4 @@ Second commit for Base Guild
 - Learned about Remix IDE.
 - Learned about testnets.
 - Learned about Base Sepolia.
+- Learned about mainnet deployment.
