@@ -22,3 +22,4 @@ Second commit for Base Guild
 - Learned about Uniswap.
 - Learned about Aerodrome.
 - Learned about onchain identity.
+- Learned about blockchain explorers.
