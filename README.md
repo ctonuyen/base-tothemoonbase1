@@ -60,3 +60,4 @@ Second commit for Base Guild
 - Learned about zk rollups.
 - Learned about calldata.
 - Learned about EVM basics.
+- Learned about wallet signatures.
