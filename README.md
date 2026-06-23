@@ -53,3 +53,4 @@ Second commit for Base Guild
 - Learned about reentrancy attacks.
 - Learned about oracle systems.
 - Learned about Chainlink.
+- Learned about bridges.
