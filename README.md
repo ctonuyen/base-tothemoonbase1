@@ -7,3 +7,4 @@ Second commit for Base Guild
 - Learned about ERC721 NFTs.
 - Learned about Base bridge.
 - Learned about Coinbase ecosystem.
+- Learned about Layer 2 networks.
