@@ -81,3 +81,4 @@ Second commit for Base Guild
 - Learned about decentralized storage.
 - Learned about token standards.
 - Learned about governance tokens.
+- Learned about voting systems.
