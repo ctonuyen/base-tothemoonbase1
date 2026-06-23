@@ -42,3 +42,4 @@ Second commit for Base Guild
 - Learned about wallet connections.
 - Learned about Web3 applications.
 - Learned about DeFi protocols.
+- Learned about staking.
