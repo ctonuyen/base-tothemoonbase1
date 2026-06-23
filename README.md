@@ -93,3 +93,4 @@ Second commit for Base Guild
 - Learned about bug bounties.
 - Learned about blockchain analytics.
 - Learned about transaction monitoring.
+- Learned about Base builders.
