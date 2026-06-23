@@ -19,3 +19,4 @@ Second commit for Base Guild
 - Learned about token transfers.
 - Learned about liquidity pools.
 - Learned about DEX protocols.
+- Learned about Uniswap.
