@@ -99,3 +99,4 @@ Second commit for Base Guild
 - Learned about onchain reputation.
 - Learned about token economics.
 - Learned about protocol design.
+- Learned about Ethereum ecosystem.
