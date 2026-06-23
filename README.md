@@ -74,3 +74,4 @@ Second commit for Base Guild
 - Learned about deployment scripts.
 - Learned about event logs.
 - Learned about blockchain indexing.
+- Learned about subgraphs.
