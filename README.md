@@ -97,3 +97,4 @@ Second commit for Base Guild
 - Learned about ecosystem growth.
 - Learned about decentralized identity.
 - Learned about onchain reputation.
+- Learned about token economics.
