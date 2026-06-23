@@ -25,3 +25,4 @@ Second commit for Base Guild
 - Learned about blockchain explorers.
 - Learned about Basescan.
 - Learned about contract deployment.
+- Learned about Solidity basics.
