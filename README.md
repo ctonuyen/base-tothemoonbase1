@@ -73,3 +73,4 @@ Second commit for Base Guild
 - Learned about smart contract testing.
 - Learned about deployment scripts.
 - Learned about event logs.
+- Learned about blockchain indexing.
