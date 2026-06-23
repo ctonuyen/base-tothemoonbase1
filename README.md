@@ -75,3 +75,4 @@ Second commit for Base Guild
 - Learned about event logs.
 - Learned about blockchain indexing.
 - Learned about subgraphs.
+- Learned about Base ecosystem apps.
