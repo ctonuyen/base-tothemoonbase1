@@ -41,3 +41,4 @@ Second commit for Base Guild
 - Learned about ENS.
 - Learned about wallet connections.
 - Learned about Web3 applications.
+- Learned about DeFi protocols.
