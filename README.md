@@ -39,3 +39,4 @@ Second commit for Base Guild
 - Learned about metadata storage.
 - Learned about IPFS.
 - Learned about ENS.
+- Learned about wallet connections.
