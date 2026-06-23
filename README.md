@@ -14,3 +14,4 @@ Second commit for Base Guild
 - Learned about smart wallets.
 - Learned about wallet security.
 - Learned about ERC20 tokens.
+- Learned about ERC721 NFTs.
