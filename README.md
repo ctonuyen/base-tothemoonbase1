@@ -58,3 +58,4 @@ Second commit for Base Guild
 - Learned about rollups.
 - Learned about optimistic rollups.
 - Learned about zk rollups.
+- Learned about calldata.
