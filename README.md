@@ -21,3 +21,4 @@ Second commit for Base Guild
 - Learned about DEX protocols.
 - Learned about Uniswap.
 - Learned about Aerodrome.
+- Learned about onchain identity.
