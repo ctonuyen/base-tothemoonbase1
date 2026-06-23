@@ -88,3 +88,4 @@ Second commit for Base Guild
 - Learned about sybil resistance.
 - Learned about wallet reputation.
 - Learned about developer communities.
+- Learned about hackathons.
