@@ -76,3 +76,4 @@ Second commit for Base Guild
 - Learned about blockchain indexing.
 - Learned about subgraphs.
 - Learned about Base ecosystem apps.
+- Learned about NFT marketplaces.
