@@ -71,3 +71,4 @@ Second commit for Base Guild
 - Learned about GitHub workflows.
 - Learned about open source projects.
 - Learned about smart contract testing.
+- Learned about deployment scripts.
