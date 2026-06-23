@@ -20,3 +20,4 @@ Second commit for Base Guild
 - Learned about liquidity pools.
 - Learned about DEX protocols.
 - Learned about Uniswap.
+- Learned about Aerodrome.
