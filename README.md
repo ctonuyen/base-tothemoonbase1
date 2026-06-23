@@ -48,3 +48,4 @@ Second commit for Base Guild
 - Learned about borrowing protocols.
 - Learned about liquidity mining.
 - Learned about MEV concepts.
+- Learned about blockchain security.
