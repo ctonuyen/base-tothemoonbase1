@@ -87,3 +87,4 @@ Second commit for Base Guild
 - Learned about airdrop criteria.
 - Learned about sybil resistance.
 - Learned about wallet reputation.
+- Learned about developer communities.
