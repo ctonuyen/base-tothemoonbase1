@@ -57,3 +57,4 @@ Second commit for Base Guild
 - Learned about cross-chain transfers.
 - Learned about rollups.
 - Learned about optimistic rollups.
+- Learned about zk rollups.
