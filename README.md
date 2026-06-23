@@ -12,3 +12,4 @@ Second commit for Base Guild
 - Learned about gas fees.
 - Learned about account abstraction.
 - Learned about smart wallets.
+- Learned about wallet security.
