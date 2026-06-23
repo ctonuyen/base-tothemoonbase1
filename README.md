@@ -51,3 +51,4 @@ Second commit for Base Guild
 - Learned about blockchain security.
 - Learned about smart contract risks.
 - Learned about reentrancy attacks.
+- Learned about oracle systems.
