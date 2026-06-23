@@ -40,3 +40,4 @@ Second commit for Base Guild
 - Learned about IPFS.
 - Learned about ENS.
 - Learned about wallet connections.
+- Learned about Web3 applications.
