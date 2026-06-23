@@ -65,3 +65,4 @@ Second commit for Base Guild
 - Learned about token approvals.
 - Learned about permit signatures.
 - Learned about Safe wallet.
+- Learned about developer tooling.
