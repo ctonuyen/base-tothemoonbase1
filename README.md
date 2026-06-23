@@ -50,3 +50,4 @@ Second commit for Base Guild
 - Learned about MEV concepts.
 - Learned about blockchain security.
 - Learned about smart contract risks.
+- Learned about reentrancy attacks.
