@@ -84,3 +84,4 @@ Second commit for Base Guild
 - Learned about voting systems.
 - Learned about treasury management.
 - Learned about protocol incentives.
+- Learned about airdrop criteria.
