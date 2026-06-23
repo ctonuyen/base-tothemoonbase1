@@ -9,3 +9,4 @@ Second commit for Base Guild
 - Learned about Coinbase ecosystem.
 - Learned about Layer 2 networks.
 - Learned about Optimism stack.
+- Learned about gas fees.
