@@ -67,3 +67,4 @@ Second commit for Base Guild
 - Learned about Safe wallet.
 - Learned about developer tooling.
 - Learned about Foundry.
+- Learned about Hardhat.
