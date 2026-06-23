@@ -8,3 +8,4 @@ Second commit for Base Guild
 - Learned about Base bridge.
 - Learned about Coinbase ecosystem.
 - Learned about Layer 2 networks.
+- Learned about Optimism stack.
