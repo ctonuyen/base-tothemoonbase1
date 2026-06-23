@@ -27,3 +27,4 @@ Second commit for Base Guild
 - Learned about contract deployment.
 - Learned about Solidity basics.
 - Learned about Remix IDE.
+- Learned about testnets.
