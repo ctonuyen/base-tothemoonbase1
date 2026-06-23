@@ -90,3 +90,4 @@ Second commit for Base Guild
 - Learned about developer communities.
 - Learned about hackathons.
 - Learned about smart contract audits.
+- Learned about bug bounties.
