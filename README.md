@@ -52,3 +52,4 @@ Second commit for Base Guild
 - Learned about smart contract risks.
 - Learned about reentrancy attacks.
 - Learned about oracle systems.
+- Learned about Chainlink.
