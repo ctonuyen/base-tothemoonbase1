@@ -68,3 +68,4 @@ Second commit for Base Guild
 - Learned about developer tooling.
 - Learned about Foundry.
 - Learned about Hardhat.
+- Learned about GitHub workflows.
