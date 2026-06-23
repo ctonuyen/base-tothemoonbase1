@@ -23,3 +23,4 @@ Second commit for Base Guild
 - Learned about Aerodrome.
 - Learned about onchain identity.
 - Learned about blockchain explorers.
+- Learned about Basescan.
