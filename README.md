@@ -31,3 +31,4 @@ Second commit for Base Guild
 - Learned about Base Sepolia.
 - Learned about mainnet deployment.
 - Learned about transaction hashes.
+- Learned about gas estimation.
