@@ -49,3 +49,4 @@ Second commit for Base Guild
 - Learned about liquidity mining.
 - Learned about MEV concepts.
 - Learned about blockchain security.
+- Learned about smart contract risks.
