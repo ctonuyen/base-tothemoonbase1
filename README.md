@@ -79,3 +79,4 @@ Second commit for Base Guild
 - Learned about NFT marketplaces.
 - Learned about OpenSea.
 - Learned about decentralized storage.
+- Learned about token standards.
