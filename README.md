@@ -98,3 +98,4 @@ Second commit for Base Guild
 - Learned about decentralized identity.
 - Learned about onchain reputation.
 - Learned about token economics.
+- Learned about protocol design.
